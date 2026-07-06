@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+saroj/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
